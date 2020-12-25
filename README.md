@@ -17,7 +17,8 @@ This is a .py file that creates the Dashboard using dash.
 
 ### Dashboard
 
-This file contains a link that leads to the Dashboard that was created from Sentiment_Dash.
+This file contains a link that leads to the Dashboard that was created from Sentiment_Dash. The link is also here:   
+http://kevinusespython.pythonanywhere.com/
 
 # Special Thanks
 
