@@ -18,3 +18,8 @@ This is a .py file that creates the Dashboard using dash.
 ### Dashboard
 
 This file contains a link that leads to the Dashboard that was created from Sentiment_Dash.
+
+# Special Thanks
+
+The idea for this project came from this github repository: https://github.com/chirayyi/2020-Presidential-Candidate-Sentiment-Analysis (Ray Yi)
+The creation of the Dashboard was guided by this youtube channel: https://www.youtube.com/channel/UCqBFsuAz41sqWcFjZkqmJqQ (Charming Data)
