@@ -14,3 +14,7 @@ This is a csv file that contains the tweets that I gathered and analyzed for thi
 ### Sentiment_Dash
 
 This is a .py file that creates the Dashboard using dash.
+
+### Dashboard
+
+This file contains a link that leads to the Dashboard that was created from Sentiment_Dash.
