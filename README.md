@@ -10,3 +10,7 @@ This file was created using google colab. Using tweepy's api, I gathered 8,696 t
 ### Twitter Vaccine
 
 This is a csv file that contains the tweets that I gathered and analyzed for this project. The columns include Dates, Tweets, Tweets without StopWords, Subjectivity score, Polarity score, and a Label (Positive, Negative, or Neutral).
+
+### Sentiment_Dash
+
+This is a .py file that creates the Dashboard using dash.
